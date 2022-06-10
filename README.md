@@ -1,5 +1,5 @@
 
-#print('Hello word! 👋')
+##print('Hello word! 👋')
 
 Desarrollador junior Colombiano 👨‍💻. con conocimientos en HTML5, Css3, JavaScript,React js, Python.
 
